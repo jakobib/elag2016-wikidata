@@ -4,9 +4,9 @@ This is an [ELAG 2016 Workshop Proposal](http://elag2016.org/programme/call-for-
 
 ## Workshop proposal
 
-**Workshop Titel:** Abandon your database, use Wikidata instead!
+**Title:** Abandon your database, use Wikidata instead!
 
-**Name:** Jakob Voß
+**Leader:** Jakob Voß
 
 **Audience:** Anyone interested in library data, Wikidata, or both 
 
