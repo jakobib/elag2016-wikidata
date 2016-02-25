@@ -1,4 +1,4 @@
-This is an [ELAG 2016 Workshop Proposal](http://elag2016.org/programme/call-for-workshop-proposals/).
+This repository describes a planned [ELAG 2016 Workshop](http://elag2016.org/programme/call-for-workshop-proposals/).
 
 [ELAG 2016](http://elag2016.org/) will take place June 6-9 in Copenhagen.
 
@@ -22,4 +22,16 @@ to expect or fear.
 
 **Workshop outcome:**
 Better understanding of possibilities, advantages, and disadvantages of putting library data into Wikidata
+
+## Requirements
+
+**Maxmimum number of participants:** 24
+
+## Preparation
+
+1. Create an account at Wikipedia, Wikidata or any connected Wiki of the Wikimedia Foundation.
+2. Log in to <https://www.wikidata.org/> to make sure your account is enabled. Look and play around if you like!
+3. Authorize the *Wi*ki*Da*ta *R*emote editor (<https://tools.wmflabs.org/widar/>) to edit on behalf of your account.
+4. ...
+
 
