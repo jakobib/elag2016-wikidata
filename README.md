@@ -29,7 +29,9 @@ Better understanding of possibilities, advantages, and disadvantages of putting 
 
 ## Preparation
 
-1. Create an account at Wikipedia, Wikidata or any connected Wiki of the Wikimedia Foundation.
+1. Create an account at Wikipedia, Wikidata or any connected Wiki of the
+   Wikimedia Foundation, unless you already have an account. You can also
+   create an additional account for the workshop if you want to keep privacy.
 
 2. Log in to <https://www.wikidata.org/> to make sure your account is enabled.
 
