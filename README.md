@@ -1,6 +1,6 @@
-This repository describes a planned [ELAG 2016 Workshop](http://elag2016.org/programme/call-for-workshop-proposals/).
+This repository describes [a Workshop](http://elag2016.org/programme/call-for-workshop-proposals/) at [ELAG 2016](http://elag2016.org/) at June 7th-9th in Copenhagen.
 
-[ELAG 2016](http://elag2016.org/) will take place June 6-9 in Copenhagen.
+There is an [associated workshop page at Wikidata](https://www.wikidata.org/wiki/Wikidata:ELAG).
 
 ## Workshop proposal
 
@@ -30,8 +30,16 @@ Better understanding of possibilities, advantages, and disadvantages of putting 
 ## Preparation
 
 1. Create an account at Wikipedia, Wikidata or any connected Wiki of the Wikimedia Foundation.
-2. Log in to <https://www.wikidata.org/> to make sure your account is enabled. Look and play around if you like!
-3. Authorize the *Wi*ki*Da*ta *R*emote editor (<https://tools.wmflabs.org/widar/>) to edit on behalf of your account.
-4. ...
+
+2. Log in to <https://www.wikidata.org/> to make sure your account is enabled.
+
+3. Open the page <https://www.wikidata.org/wiki/Wikidata:ELAG> and add yourself
+   to the list of participants.
+
+4. Look and play around in Wikidata if you like!
+
+5. Authorize the [WikiData Remote editor](https://tools.wmflabs.org/widar/)
+   (WikiDaR) to use it for editing Wikidata. Try it with one of the
+   [Wikidata Games](https://tools.wmflabs.org/wikidata-game/)!
 
 
