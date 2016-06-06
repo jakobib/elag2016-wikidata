@@ -378,18 +378,42 @@ Long lists at <https://www.wikidata.org/wiki/Wikidata:Tools>
 * Comparision of content BARTOC and Wikidata\
   to improve data quality!
 
+## Example: WikiCite
 
-# Brainstorming use cases
+* All citations from Wikipedia in Wikidata
+* All bibliographic data in Wikidata?
+* Recent event with 50 experts
+* <https://meta.wikimedia.org/wiki/WikiCite_2016/Report>
 
-## ...
+See also [wikidata for referencing chemical properties](http://chem-bla-ics.blogspot.de/2016/06/wikidata-showing-chemical-properties.html)
 
-> what kind of data to put in or move into Wikidata, and what consequences to expect or fear?
+# Brainstorming session
 
-* What is actually in Wikidata?
-* What is required to use Wikidata content?
-* How can be measure data quality?
-* Other arguments against putting everything in Wikidata?
+## Questions
 
+* what kind of data to put in or move into Wikidata?
+* what consequences to expect or fear?
+    * possible limitations?
+    * expected benefit?
+
+## Organization
+
+* Brainstorming in groups of 5 people
+* One person per groups needs a strict watch!
+
+## First round
+
+* everyone has *two minutes* to quickly list what kind or types
+  of data to move into Wikidata 
+* then compile a joint list in each group within *five minutes*
+* then each group presents her results
+
+## Second round (if time permits)
+
+* everyone has *four minutes* to quickly list expected benefits and 
+  possible limitations
+* then compile a joint list in each group within *ten minutes*
+* then each group presents her results
 
 # Appendix
 
